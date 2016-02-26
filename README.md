@@ -9,7 +9,7 @@ Requisitos para executação dos testes são:
 
 Para executar os testes via GUI:
 - Clonar este repositório
-- Acesse o JMeter no diretório em que ele se encontra e execute o comando "sh jmeter"
-- Abra o arquivo exercicio1.jmx no JMeter
-- Clique no ícone "start"
-- Verifique os resultados
+- Acessar o JMeter no diretório em que ele se encontra e execute o comando "sh jmeter"
+- Abrir o arquivo exercicio1.jmx no JMeter
+- Clicar no ícone "start"
+- Verificar os resultados
