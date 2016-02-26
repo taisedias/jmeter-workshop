@@ -1,5 +1,5 @@
 # jmeter-workshop
-Workshop de JMeter para turma de testes, 2016
+Workshop de JMeter para turma de testes, 2016.
 
 Este repositório contém testes com o JMeter.
 
